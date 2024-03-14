@@ -1,0 +1,2 @@
+# secretflow-financial_prediction
+WPPCC2023获奖作品，使用隐语SecretFlow框架完成安全多方计算信用卡发卡风险预测任务，使用docker容器化模拟多参与方真实通信。
